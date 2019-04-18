@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/prabhatga/prabhatga.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![Begin](https://drive.google.com/uc?id=1GoIt7LwfWw5_oFqPTKJnsLCw4hKB6TMY)
+![Begin](https://photos.app.goo.gl/uc?id=K6jJrmU2SzEgaD8H7)
 
 ### Markdown
 
