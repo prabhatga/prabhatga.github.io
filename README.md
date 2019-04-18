@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## Latest Articles
+***
 
-You can use the [editor on GitHub](https://github.com/prabhatga/prabhatga.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### The Virtual State of Facebook
+What does it mean to be a citizen of social media, and how does that affect our relationship with the country that we actually live in?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_Newslaundry / Apr 9, 2019 / [Read](https://www.newslaundry.com/2019/04/09/the-virtual-state-of-facebook)_
 
-![Begin](https://lh3.googleusercontent.com/0vVuN3yNFMhwYHr3Yq-jgSq8zetLoiPKsvTu9ttZgYCscrRdF0g4GX8naQFFanhxHUbIpDKFl-K4wBPbysXdkvg_E8jujkMkoUPVWwxHhZ7TfCFo4ZrBuDgMaPGU2nQUVwL3W-nLEa4=w2400)
+***
+
+### Social Media is Derailing Progressive Democracies
+Despite its promise of greater freedom and democratic participation, social media stifles dissent and damages our politics. 
+
+_Newslaundry / Apr 2, 2019 / [Read](https://www.newslaundry.com/2019/04/02/social-media-is-derailing-progressive-democracies)_
 
