@@ -13,3 +13,5 @@ Despite its promise of greater freedom and democratic participation, social medi
 
 _Newslaundry / Apr 2, 2019 / [Read](https://www.newslaundry.com/2019/04/02/social-media-is-derailing-progressive-democracies)_
 
+***
+
