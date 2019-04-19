@@ -18,4 +18,4 @@ _Newslaundry / Apr 2, 2019 / Read in [English](https://www.newslaundry.com/2019/
 ### Endangered - A short film
 According to a major WWF report (dated 31-October-2018), humanity has wiped out 60% of animal populations since 1970. This film captures the plight of 4 of such species in danger. Screened at the 2018 edition of 'Quotes from the Earth Film Festival'.
 
-_YouTube / December 2019 / [Watch](https://youtu.be/e80xCDhwqns)_
+_YouTube / December 2018 / [Watch](https://youtu.be/e80xCDhwqns)_
