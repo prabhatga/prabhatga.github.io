@@ -2,6 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+a:visited {
+    text-decoration: none;
+}
 a:hover {
     font-weight: normal;
     text-decoration: underline;
