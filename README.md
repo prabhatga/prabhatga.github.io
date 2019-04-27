@@ -11,6 +11,7 @@ _Newslaundry / Apr 24, 2019 / [Read](https://www.newslaundry.com/2019/04/24/nati
 ### The Virtual State of Facebook
 What does it mean to be a citizen of social media, and how does that affect our relationship with the country that we actually live in?
 
+_Patriot / Apr 11, 2019 / [Read](http://thepatriot.in/2019/04/11/the-virtual-state-of-facebook/)_<br/>
 _Newslaundry / Apr 9, 2019 / [Read](https://www.newslaundry.com/2019/04/09/the-virtual-state-of-facebook)_
 
 ***
