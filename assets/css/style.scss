@@ -2,6 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+a, a:visited, a:hover {
+    color: #00ab6b;
+}
 a:visited {
     text-decoration: none;
 }
@@ -14,4 +17,7 @@ h1 > a:hover {
 }
 .view {
     display: none;
+}
+.desc {
+    font-size: 0.90em;
 }
