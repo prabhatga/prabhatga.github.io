@@ -20,7 +20,8 @@ _Newslaundry / Apr 9, 2019 / [Read](https://www.newslaundry.com/2019/04/09/the-v
 ### Social Media is Derailing Progressive Democracies
 Despite its promise of greater freedom and democratic participation, social media stifles dissent and damages our politics. 
 
-_Newslaundry / Apr 2, 2019 / Read in [English](https://www.newslaundry.com/2019/04/02/social-media-is-derailing-progressive-democracies) or [Hindi](https://www.newslaundry.com/2019/04/05/social-media-democracy-elections-trolls-bjp)_
+_Newslaundry Hindi / Apr 5, 2019 / [Read](https://www.newslaundry.com/2019/04/05/social-media-democracy-elections-trolls-bjp)_<br/>
+_Newslaundry / Apr 2, 2019 / [Read](https://www.newslaundry.com/2019/04/02/social-media-is-derailing-progressive-democracies)_
 
 ***
 
