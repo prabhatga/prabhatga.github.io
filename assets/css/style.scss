@@ -2,8 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+$base-color: #00ab6b;
 a, a:visited, a:hover {
-    color: #00ab6b;
+    color:$base-color;
 }
 a:visited {
     text-decoration: none;
@@ -20,4 +21,7 @@ h1 > a:hover {
 }
 .desc {
     font-size: 0.90em;
+}
+section {
+    border-color: $base-color;
 }
