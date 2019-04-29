@@ -4,6 +4,7 @@
 ### The Debasing of National Data
 In trying to substitute rhetoric for economic data, the government is damaging the scientific basis of planning and policymaking.
 
+_Newslaundry Hindi / Apr 29, 2019 / [Read in Hindi](https://www.newslaundry.com/2019/04/29/economy-indian-sample-survey-office-employment-gdp-bjp)_<br/>
 _Newslaundry / Apr 24, 2019 / [Read](https://www.newslaundry.com/2019/04/24/national-sample-survey-office-employment-data-gdp-imf)_
 
 ***
