@@ -1,6 +1,13 @@
 ## Latest Posts
 ***
 
+### A Vote for the System
+India’s democracy, no matter how imperfect, is built on the back of a million sacrifices. We must save its soul from the tyranny of a divisive political agenda.
+
+_Medium / May 11, 2019 / [Read](https://medium.com/@prabhatgarg/a-vote-for-the-system-1d0638f09bef)_
+
+***
+
 ### The Debasing of National Data
 In trying to substitute rhetoric for economic data, the government is damaging the scientific basis of planning and policymaking.
 
