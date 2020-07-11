@@ -1,6 +1,7 @@
 ## Latest Posts
 ***
 
+<!--
 ### A Vote for the System
 India’s democracy, no matter how imperfect, is built on the back of a million sacrifices. We must save its soul from the tyranny of a divisive political agenda.
 
@@ -32,7 +33,7 @@ _Newslaundry Hindi / Apr 5, 2019 / [Read in Hindi](https://www.newslaundry.com/2
 _Newslaundry / Apr 2, 2019 / [Read](https://www.newslaundry.com/2019/04/02/social-media-is-derailing-progressive-democracies)_
 
 ***
-
+-->
 ### Endangered - A short film
 According to a major WWF report (dated 31-October-2018), humanity has wiped out 60% of animal populations since 1970. This film captures the plight of 4 such species in danger. Screened at the 2018 edition of 'Quotes from the Earth Film Festival'.
 
