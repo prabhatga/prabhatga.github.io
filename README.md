@@ -1,39 +1,6 @@
 ## Latest Posts
 ***
 
-<!--
-### A Vote for the System
-India’s democracy, no matter how imperfect, is built on the back of a million sacrifices. We must save its soul from the tyranny of a divisive political agenda.
-
-_Medium / May 11, 2019 / [Read](https://medium.com/@prabhatgarg/a-vote-for-the-system-1d0638f09bef)_
-
-***
-
-### The Debasing of National Data
-In trying to substitute rhetoric for economic data, the government is damaging the scientific basis of planning and policymaking.
-
-_Newslaundry Hindi / Apr 29, 2019 / [Read in Hindi](https://www.newslaundry.com/2019/04/29/economy-indian-sample-survey-office-employment-gdp-bjp)_<br/>
-_Newslaundry / Apr 24, 2019 / [Read](https://www.newslaundry.com/2019/04/24/national-sample-survey-office-employment-data-gdp-imf)_
-
-***
-
-### The Virtual State of Facebook
-What does it mean to be a citizen of social media, and how does that affect our relationship with the country that we actually live in?
-
-_Patriot (print edition) / Apr 19, 2019 / [Read](https://drive.google.com/file/d/1P42at7B37YqQU_w4OrGTon5OU6O6l55_/view?usp=sharing)_<br/>
-_Patriot (web edition) / Apr 11, 2019 / [Read](http://thepatriot.in/2019/04/11/the-virtual-state-of-facebook/)_<br/>
-_Newslaundry / Apr 9, 2019 / [Read](https://www.newslaundry.com/2019/04/09/the-virtual-state-of-facebook)_
-
-***
-
-### Social Media is Derailing Progressive Democracies
-Despite its promise of greater freedom and democratic participation, social media stifles dissent and damages our politics. 
-
-_Newslaundry Hindi / Apr 5, 2019 / [Read in Hindi](https://www.newslaundry.com/2019/04/05/social-media-democracy-elections-trolls-bjp)_<br/>
-_Newslaundry / Apr 2, 2019 / [Read](https://www.newslaundry.com/2019/04/02/social-media-is-derailing-progressive-democracies)_
-
-***
--->
 ### Endangered - A short film
 According to a major WWF report (dated 31-October-2018), humanity has wiped out 60% of animal populations since 1970. This film captures the plight of 4 such species in danger. Screened at the 2018 edition of 'Quotes from the Earth Film Festival'.
 
